@@ -1,0 +1,1 @@
+web gunicorn lottery_bot_test_0222:app
